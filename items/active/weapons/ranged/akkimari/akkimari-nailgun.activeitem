@@ -12,6 +12,9 @@
   "category" : "Nailgun",
   "itemTags" : ["weapon","ranged","machinepistol","akkimari"],
   "twoHanded" : false,
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 15, "maxRange" : 40, "forceMoveRange" : 45, "primaryArcProjectile" : "akkimarinail"},
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {

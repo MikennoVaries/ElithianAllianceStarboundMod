@@ -13,6 +13,9 @@
   "itemTags" : ["weapon","ranged","assaultrifle","akkimari"],
   "twoHanded" : true,
 
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 25, "maxRange" : 55, "forceMoveRange" : 60, "primaryArcProjectile" : "akkimarinail", "primaryArcSpeed" : 90},
+
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",

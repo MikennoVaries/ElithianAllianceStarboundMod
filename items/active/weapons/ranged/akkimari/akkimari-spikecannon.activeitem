@@ -12,6 +12,9 @@
   "category" : "Spike Cannon",
   "itemTags" : ["weapon","ranged","grenadelauncher","akkimari"],
   "twoHanded" : true,
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 40, "forceMoveRange" : 45, "primaryArcProjectile" : "akkimarispike"},
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {

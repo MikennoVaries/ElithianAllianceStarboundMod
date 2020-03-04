@@ -12,6 +12,9 @@
   "category" : "Sniper Rifle",
   "itemTags" : ["weapon","ranged","sniperrifle","akkimari"],
   "twoHanded" : true,
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 35, "maxRange" : 90, "forceMoveRange" : 100, "primaryArcProjectile" : "akkimarinail2", "primaryArcSpeed" : 140},
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {

@@ -18,6 +18,9 @@
   
   "meritTokenValue" : 100,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 5, "maxRange" : 10, "forceMoveRange" : 12.5, "primaryCharge" : 3},
+  
   "cursor" : "/cursors/thea-shockreticle.cursor",
 
   "animation" : "/items/active/weapons/ranged/animations/thea-gun.animation",

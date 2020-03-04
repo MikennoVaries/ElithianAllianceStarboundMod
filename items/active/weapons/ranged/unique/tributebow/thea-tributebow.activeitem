@@ -15,6 +15,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-tributebow" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "tributepowerarrow", "primaryArcSpeed" : 100, "minRange" : 20, "maxRange" : 55, "forceMoveRange" : 60, "primaryCharge" : 0.9, "altChance" : 0.05, "minAltRange" : 15, "maxAltRange" : 100},
 
   "animation" : "/items/active/weapons/ranged/animations/thea-alternativearrowbow-lights2.animation",
   "animationParts" : {

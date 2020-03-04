@@ -16,8 +16,11 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-blastsling" },
   
-  "meritTokenValue" : 100,
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 15, "maxRange" : 35, "forceMoveRange" : 40, "primaryCharge" : 0.7, "primaryArcProjectile" : "blastslingbomb-regular", "minAltRange" : 5, "maxAltRange" : 100, "altChance" : 0.05},
   
+  "meritTokenValue" : 100,
+    
   "cursor" : "/cursors/thea-heavybowreticle.cursor",
 
   "animation" : "akkimari-blastsling.animation",

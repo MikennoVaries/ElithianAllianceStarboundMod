@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "centens-sundrainer" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "largejumpriflebullet", "minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "primaryCharge" : 1.5, "minAltRange" : 10, "maxAltRange" : 60, "altCharge" : 4, "altChance" : 0.1},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-largejumpriflereticle.cursor",

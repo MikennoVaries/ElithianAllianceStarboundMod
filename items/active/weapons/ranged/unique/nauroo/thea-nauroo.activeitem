@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-nauroo" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 65, "forceMoveRange" : 70, "minAltRange" : 15, "maxAltRange" : 90, "altChance" : 0.25},
+  
   //"meritTokenValue" : 50,
   
   "cursor" : "/cursors/thea-squarereticle.cursor",

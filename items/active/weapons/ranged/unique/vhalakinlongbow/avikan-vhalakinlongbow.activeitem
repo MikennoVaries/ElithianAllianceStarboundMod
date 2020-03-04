@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-vhalakinlongbow" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "linebowarrow", "minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 1.2, "altArcProjectile" : "linebowarrow", "altChance" : 0.1, "minAltRange" : 15, "maxAltRange" : 50, "altCharge" : 1.5},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-linebowreticle.cursor",

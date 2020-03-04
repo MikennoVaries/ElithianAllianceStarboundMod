@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-airstrike" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 50, "forceMoveRange" : 60, "primaryCharge" : 3, "minAltRange" : 20, "maxAltRange" : 60, "altChance" : 0.05, "altCharge" : 3},
+  
   "meritTokenValue" : 100,
 
   "animation" : "avikan-airstrike.animation",

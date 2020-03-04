@@ -12,6 +12,9 @@
   "category" : "Shotgun",
   "itemTags" : ["weapon","ranged","shotgun","akkimari"],
   "twoHanded" : true,
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 15, "maxRange" : 35, "forceMoveRange" : 40, "primaryArcProjectile" : "akkimarinail2"},
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {

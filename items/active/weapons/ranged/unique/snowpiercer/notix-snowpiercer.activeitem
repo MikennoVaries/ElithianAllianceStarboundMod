@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "notix-snowpiercer" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 55, "forceMoveRange" : 60, "primaryArcProjectile" : "notixicespike", "minAltRange" : 3, "maxAltRange" : 25, "altChance" : 1, "altCharge" : 3},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-railreticle.cursor",

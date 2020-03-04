@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-sidewinder" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50},
+  
   "meritTokenValue" : 100,
 
   "animation" : "thea-sidewinder.animation",

@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-vaulaar" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 55, "forceMoveRange" : 60, "altChance" : 0.05, "minAltRange" : 15, "maxAltRange" : 50, "altCharge" : 3},
+  
   //"meritTokenValue" : 50,
   
   "cursor" : "/cursors/thea-squarereticle.cursor",

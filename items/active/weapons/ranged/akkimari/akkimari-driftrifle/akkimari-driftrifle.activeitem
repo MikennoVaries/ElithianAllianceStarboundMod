@@ -13,6 +13,9 @@
   "itemTags" : ["weapon","ranged","driftrifle","akkimari"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 50, "forceMoveRange" : 60, "primaryCharge" : 0.6},
+  
   "cursor" : "/cursors/thea-triplereticle.cursor",
   
   "animation" : "akkimari-driftrifle.animation",

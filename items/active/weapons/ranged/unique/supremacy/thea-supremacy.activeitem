@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-supremacy" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 50, "forceMoveRange" : 55, "primaryCharge" : 2, "altChance" : 0.1, "minAltRange" : 15, "maxAltRange" : 70},
+  
   "meritTokenValue" : 100,
 
   "animation" : "thea-supremacy.animation",

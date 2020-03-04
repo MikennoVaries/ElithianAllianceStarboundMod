@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-lightrunner" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 75, "forceMoveRange" : 80, "minAltRange" : 3, "maxAltRange" : 60, "altChance" : 0.05},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-bracketreticle2.cursor",

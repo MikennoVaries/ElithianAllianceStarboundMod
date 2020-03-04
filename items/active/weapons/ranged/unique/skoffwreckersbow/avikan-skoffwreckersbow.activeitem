@@ -13,6 +13,9 @@
   "itemTags" : ["weapon","ranged","avikan","linerifle","theaUnique"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 2.1},
+  
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-skoffwreckersbow" },
 

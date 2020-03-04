@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-jumpfireprotocol" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "smalljumpriflebullet", "altArcProjectile" : "smalljumpriflebullet-fire", "minRange" : 30, "maxRange" : 55, "forceMoveRange" : 60, "primaryCharge" : 8, "minAltRange" : 20, "maxAltRange" : 60, "altChance" : 0.05},
+  
   //"meritTokenValue" : 100, //As this is a crafted weapon, we don't want it used for farming Tokens of Merit
   
   "cursor" : "/cursors/thea-jumpriflereticle.cursor",

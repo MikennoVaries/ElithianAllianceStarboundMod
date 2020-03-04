@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "centens-voideater" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 55, "forceMoveRange" : 60, "altChance" : 0.1, "minAltRange" : 15, "maxAltRange" : 50},
+  
   "meritTokenValue" : 100,
   
   "animation" : "centens-voideater.animation",

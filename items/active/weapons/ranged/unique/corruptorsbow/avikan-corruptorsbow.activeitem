@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-corruptorsbow" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 0.7, "minAltRange" : 25, "maxAltRange" : 70, "altCharge" : 1, "altChance" : 0.05},
+  
   "meritTokenValue" : 100,
 
   "cursor" : "/cursors/thea-tripodreticle.cursor",

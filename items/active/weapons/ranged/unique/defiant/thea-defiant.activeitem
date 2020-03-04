@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-defiant" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 40, "maxRange" : 60, "forceMoveRange" : 70, "primaryCharge" : 5, "minAltRange" : 25, "maxAltRange" : 80, "altCharge" : 1.2, "altChance" : 0.025},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-laserreticle.cursor",

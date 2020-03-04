@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-seekersmg" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 35, "forceMoveRange" : 40},
+  
   "meritTokenValue" : 50,
   
   "cursor" : "/cursors/thea-lineriflereticle.cursor",

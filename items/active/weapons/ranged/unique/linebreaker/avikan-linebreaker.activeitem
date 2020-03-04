@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-linebreaker" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 50, "forceMoveRange" : 60, "minAltRange" : 10, "maxAltRange" : 22.5, "altChance" : 0.5},
+  
   "meritTokenValue" : 100,
 
   "cursor" : "/cursors/thea-complexreticle3.cursor",

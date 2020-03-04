@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-achaari" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 60, "forceMoveRange" : 70},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-tripledotreticle.cursor",

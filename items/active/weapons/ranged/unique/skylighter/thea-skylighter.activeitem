@@ -14,6 +14,9 @@
   "itemTags" : ["weapon","ranged","pistol","alliance","theaUnique"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50},
+  
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-skylighter" },
   

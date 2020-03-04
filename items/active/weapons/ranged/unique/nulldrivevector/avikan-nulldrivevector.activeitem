@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-nulldrivevector" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "primaryCharge" : 4, "minAltRange" : 10, "maxAltRange" : 50, "altCharge" : 4.5, "altChance" : 0.025},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-lineriflereticle.cursor",

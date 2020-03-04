@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-architect" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 50, "forceMoveRange" : 60, "primaryCharge" : 0.6, "minAltRange" : 20, "maxAltRange" : 60, "altChance" : 0.05},
+  
   "meritTokenValue" : 100,
 
   "cursor" : "/cursors/thea-lineriflereticle2.cursor",

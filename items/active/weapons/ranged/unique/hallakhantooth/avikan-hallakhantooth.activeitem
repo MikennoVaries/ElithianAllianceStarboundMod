@@ -16,6 +16,10 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-hallakhantooth" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "avikanlongpowerarrow", "primaryArcSpeed" : 140, "minRange" : 35, "maxRange" : 80, "forceMoveRange" : 90, "primaryCharge" : 1.75, "minAltRange" : 3, "maxAltRange" : 100, "altChance" : 0.05},
+
+  
   "meritTokenValue" : 100,
 
   "radioMessagesOnPickup" : [ "pickupavikanhunting" ],

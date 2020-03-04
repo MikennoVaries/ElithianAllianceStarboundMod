@@ -18,6 +18,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-ashatok" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "justicarbullet", "minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "minAltRange" : 3, "altArcProjectile" : "akkimariacidthrower", "maxAltRange" : 20, "altChance" : 0.15, "altCharge" : 2},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-ashatok.animation",

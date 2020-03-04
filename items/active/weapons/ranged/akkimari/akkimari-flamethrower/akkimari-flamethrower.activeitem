@@ -13,6 +13,9 @@
   "itemTags" : ["weapon","ranged","flamethrower","akkimari"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 12.5, "maxRange" : 20, "forceMoveRange" : 25, "primaryCharge" : 3},
+  
   "cursor" : "/cursors/thea-triplereticle-large.cursor",
   
   "animation" : "/items/active/weapons/ranged/animations/thea-gun.animation",

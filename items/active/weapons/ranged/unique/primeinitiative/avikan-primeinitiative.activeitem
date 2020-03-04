@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-primeinitiative" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 1.6, "minAltRange" : 15, "maxAltRange" : 60, "altCharge" : 3, "altChance" : 0.05},
+  
   "meritTokenValue" : 100,
 
   "cursor" : "/cursors/thea-complexreticle2.cursor",

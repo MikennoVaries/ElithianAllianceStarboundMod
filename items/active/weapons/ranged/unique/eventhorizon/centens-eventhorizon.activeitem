@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "centens-eventhorizon" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 25, "maxRange" : 60, "forceMoveRange" : 65, "primaryCharge" : 5},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-complexcirclereticle.cursor",

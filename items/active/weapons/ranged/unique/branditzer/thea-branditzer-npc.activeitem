@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   //"collectablesOnPickup" : { "thea_weapons" : "thea-branditzer" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 55, "forceMoveRange" : 60, "primaryCharge" : 0.55},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-branditzerreticle.cursor",

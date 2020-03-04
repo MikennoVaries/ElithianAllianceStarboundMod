@@ -19,6 +19,9 @@
   
   "meritTokenValue" : 100,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 3.5},
+  
   "cursor" : "/cursors/thea-largejumpriflereticle.cursor",
   
   "animation" : "thea-breacher.animation",

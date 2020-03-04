@@ -16,6 +16,10 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-sawbladelauncher" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "akkimarisawblade", "primaryArcSpeed" : 70, "minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "minAltRange" : 10, "altArcProjectile" : "akkimarisawbladebomb", "altArcSpeed" : 100, "maxAltRange" : 80, "altChance" : 0.15},
+
+  
   "meritTokenValue" : 100,
   
   "animation" : "akkimari-sawbladelauncher.animation",

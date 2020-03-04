@@ -13,6 +13,9 @@
   "itemTags" : ["weapon","ranged","assaultrifle","akkimari"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70},
+  
   "cursor" : "/cursors/thea-triplereticle-large.cursor",
   
   "animation" : "/items/active/weapons/ranged/animations/thea-gun.animation",

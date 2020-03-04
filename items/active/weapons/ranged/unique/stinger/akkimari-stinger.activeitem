@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-stinger" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "primaryCharge" : 0.5, "minAltRange" : 25, "maxAltRange" : 60, "altChance" : 0.1, "altCharge" : 0.7},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-triplereticle.cursor",

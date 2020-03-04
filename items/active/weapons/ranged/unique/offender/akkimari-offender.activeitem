@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-offender" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 45, "forceMoveRange" : 50, "primaryCharge" : 4},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-offender.animation",

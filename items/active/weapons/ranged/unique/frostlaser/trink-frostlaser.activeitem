@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "trink-frostlaser" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 4, "minAltRange" : 3, "maxAltRange" : 15, "altCharge" : 0.8, "altChance" : 1},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-laserreticle.cursor",

@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-corsair" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 25, "maxRange" : 60, "forceMoveRange" : 65},
+  
   "meritTokenValue" : 100,
 
   "animation" : "thea-corsair.animation",

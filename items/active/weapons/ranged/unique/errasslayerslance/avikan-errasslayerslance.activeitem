@@ -18,6 +18,9 @@
   
   "meritTokenValue" : 100,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 1.1, "minAltRange" : 25, "maxAltRange" : 70, "altCharge" : 1.25, "altChance" : 0.2},
+  
   "cursor" : "/cursors/thea-lineriflereticle.cursor",
   
   "animation" : "avikan-errasslayerslance.animation",

@@ -18,6 +18,9 @@
   
   "meritTokenValue" : 100,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 50, "forceMoveRange" : 55, "primaryCharge" : 1, "minAltRange" : 25, "maxAltRange" : 50, "altCharge" : 1.3, "altChance" : 0.05},
+  
   "cursor" : "/cursors/thea-dottedreticle.cursor",
   
   "animation" : "centens-deathseeker.animation",

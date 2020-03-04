@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "trink-energizer" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 65, "forceMoveRange" : 70, "primaryCharge" : 5, "minAltRange" : 25, "maxAltRange" : 70, "altCharge" : 0.5, "altChance" : 0.075},
+  
   "meritTokenValue" : 100,
 
   "animation" : "trink-energizer.animation",

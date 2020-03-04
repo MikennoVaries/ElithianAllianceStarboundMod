@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "trink-shockbolter" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 12.5, "maxRange" : 18, "forceMoveRange" : 22.5, "primaryCharge" : 3, "altChance" : 0.1, "minAltRange" : 5, "maxAltRange" : 20, "altArcProjectile" : "shockboltgrenade"},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-shockreticle.cursor",

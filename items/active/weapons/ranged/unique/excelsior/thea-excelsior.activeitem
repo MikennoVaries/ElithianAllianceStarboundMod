@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-excelsior" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 40, "forceMoveRange" : 45},
+  
   //"meritTokenValue" : 50,
 
   "animation" : "thea-excelsior.animation",

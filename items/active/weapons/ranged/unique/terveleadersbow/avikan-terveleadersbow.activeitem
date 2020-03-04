@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-terveleadersbow" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 35, "maxRange" : 60, "forceMoveRange" : 65, "altChance" : 0.025, "minAltRange" : 20, "maxAltRange" : 70},
+  
   "meritTokenValue" : 100,
 
   "cursor" : "/cursors/thea-tripodreticle.cursor",

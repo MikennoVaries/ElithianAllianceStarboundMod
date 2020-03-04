@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-rhakorilongbow" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 35, "maxRange" : 80, "forceMoveRange" : 90, "primaryCharge" : 1.75, "minAltRange" : 3, "maxAltRange" : 100, "altChance" : 0.1},
+  
   "meritTokenValue" : 100,
 
   "radioMessagesOnPickup" : [ "pickupavikanhunting" ],

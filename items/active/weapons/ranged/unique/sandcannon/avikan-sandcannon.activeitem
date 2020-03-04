@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-sandcannon" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 10, "maxRange" : 15, "forceMoveRange" : 20, "primaryCharge" : 4, "altArcProjectile" : "sandcannonbomb", "minAltRange" : 3, "maxAltRange" : 15, "altChance" : 0.2},
+  
   "meritTokenValue" : 100,
   
   "cursor" : "/cursors/thea-launcherreticle.cursor",

@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-sandstalkersbane" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "avikandeepdesertpowerarrow", "minRange" : 20, "maxRange" : 50, "forceMoveRange" : 55, "primaryCharge" : 1.1, "minAltRange" : 10, "maxAltRange" : 40, "altChance" : 0.15},
+  
   "meritTokenValue" : 100,
 
   "radioMessagesOnPickup" : [ "pickupavikanhunting" ],

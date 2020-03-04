@@ -14,6 +14,9 @@
   "itemTags" : ["weapon","ranged","assaultrifle","alliance","theaUnique"],
   "twoHanded" : true,
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 25, "maxRange" : 65, "forceMoveRange" : 70},
+  
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-siegerunner" },
   

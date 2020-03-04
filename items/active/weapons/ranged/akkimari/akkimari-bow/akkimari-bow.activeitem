@@ -12,6 +12,9 @@
   "shortdescription" : "Makeshift Bow",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","bow","akkimari"],
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "akkimaripowerarrow", "primaryArcSpeed" : 100, "minRange" : 20, "maxRange" : 55, "forceMoveRange" : 60, "primaryCharge" : 0.8, "altArcProjectile" : "akkimariarrow", "altArcSpeed" : 60, "altChance" : 0.1, "minAltRange" : 15, "maxAltRange" : 40, "altCharge" : 3},
 
   "animation" : "/items/active/weapons/ranged/animations/thea-bow.animation",
   "animationParts" : {

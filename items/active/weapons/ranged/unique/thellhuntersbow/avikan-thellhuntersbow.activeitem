@@ -15,6 +15,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-thellhuntersbow" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 55, "forceMoveRange" : 60, "primaryCharge" : 0.7, "altChance" : 0.2, "minAltRange" : 15, "maxAltRange" : 40},
 
   "cursor" : "/cursors/thea-lineriflereticle.cursor",
   

@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-vhelinsrifle" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "vhelinsbullet", "primaryArcSpeed" : 70, "minRange" : 20, "maxRange" : 55, "forceMoveRange" : 60, "altArcProjectile" : "vhelinsbullet", "altArcSpeed" : 60, "altChance" : 0.25, "minAltRange" : 5, "maxAltRange" : 25},
+  
   "meritTokenValue" : 100,
 
   "animation" : "avikan-vhelinsrifle.animation",
