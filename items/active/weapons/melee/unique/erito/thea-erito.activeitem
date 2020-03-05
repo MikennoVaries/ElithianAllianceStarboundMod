@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-erito" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5,"minRange" : 3,"maxYRange" : 5,"altChance" : 0.25,"altRange" : 4},
+  
   //"meritTokenValue" : 50,
 
   "animation" : "thea-erito.animation",

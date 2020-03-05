@@ -14,6 +14,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-tributesword" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 6,"minRange" : 3,"maxYRange" : 5,"altChance" : 0.15,"altRange" : 5, "altCharge" : 1.25},
 
   "inventoryIcon" : "thea-tributesword.png",
 

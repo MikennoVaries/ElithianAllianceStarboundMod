@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikanteslaspear" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 7,"minRange" : 3,"maxYRange" : 6,"altChance" : 0.1,"altRange" : 10},
+  
   "meritTokenValue" : 100,
 
   "animation" : "avikanteslaspear.animation",

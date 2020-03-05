@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-shakkar" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 8,"minRange" : 4,"maxYRange" : 6,"altChance" : 0.1,"altRange" : 30, "altCharge" : 0.9},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-shakkar.animation",

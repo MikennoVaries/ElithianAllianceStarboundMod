@@ -12,6 +12,9 @@
   "itemTags" : ["weapon","melee","broadsword","allianceUpgradeable"],
 
   "inventoryIcon" : "thea-harrowingblade.png",
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5,"minRange" : 2,"maxYRange" : 6},
 
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {

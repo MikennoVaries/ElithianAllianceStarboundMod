@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "avikan-anakahrstaff" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 10,"minRange" : 5,"maxYRange" : 6,"altChance" : 0.1,"altRange" : 20, "altCharge" : 1.0},
+  
   "meritTokenValue" : 100,
 
   "animation" : "avikan-anakahrstaff.animation",

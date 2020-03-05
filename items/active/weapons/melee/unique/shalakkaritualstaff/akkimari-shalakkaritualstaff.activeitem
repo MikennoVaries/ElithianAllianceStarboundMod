@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-shalakkaritualstaff" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 8,"minRange" : 4,"maxYRange" : 6,"altChance" : 0.15,"altRange" : 45, "altCharge" : 0.4},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-shalakkaritualstaff.animation",

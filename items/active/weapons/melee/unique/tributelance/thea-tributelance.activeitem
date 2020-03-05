@@ -14,6 +14,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-tributelance" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 9,"minRange" : 5,"maxYRange" : 8,"altChance" : 0.1,"altRange" : 30, "altCharge" : 2},
 
   "inventoryIcon" : "thea-tributelance.png",
 

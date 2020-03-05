@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "thea-shadowsembrace" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 6,"minRange" : 3,"maxYRange" : 6,"altChance" : 0.15,"altRange" : 40},
+  
   "meritTokenValue" : 100,
 
   "animation" : "thea-shadowsembrace.animation",

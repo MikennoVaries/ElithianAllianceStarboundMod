@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "trinkprimecircuit" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 7,"minRange" : 4,"maxYRange" : 6, "primaryCharge" : 1.5, "altChance" : 0.05,"altRange" : 12, "altCharge" : 1.5},
+  
   "meritTokenValue" : 100,
 
   "animation" : "trinkprimecircuit.animation",

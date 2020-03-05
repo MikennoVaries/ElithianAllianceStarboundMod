@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-razaara" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5,"minRange" : 2,"maxYRange" : 6},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-razaara.animation",

@@ -17,7 +17,7 @@
   //"collectablesOnPickup" : { "thea_weapons" : "centens-aspectofcreation" },
   
   //COMPATABILITY FOR WFSYSTEM NPCS
-  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 60, "forceMoveRange" : 65, "primaryCharge" : 1, "minAltRange" : 20, "maxAltRange" : 60, "altChance" : 0.05, "altCharge" : 1.75},
+  "wfNpcWeaponData" : {"minRange" : 30, "maxRange" : 60, "forceMoveRange" : 65, "primaryCharge" : 1, "minAltRange" : 20, "maxAltRange" : 60, "altChance" : 0.05, "altCharge" : 1.75},
   
   "meritTokenValue" : 100,
   

@@ -10,6 +10,9 @@
   "category" : "Shock Spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear","akkimari","theaUnique"],
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS - please dont use this one, it sucks and the non-NPC variant has an altfire which the WFSYSTEM NPCs can use
+  "wfNpcWeaponData" : {"maxRange" : 8,"minRange" : 4,"maxYRange" : 6},
 
   "inventoryIcon" : "akkimari-shakkaricon.png",
 

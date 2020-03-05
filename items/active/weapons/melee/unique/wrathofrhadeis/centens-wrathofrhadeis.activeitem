@@ -17,6 +17,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "centens-wrathofrhadeis" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5, "maxYRange" : 6, "minRange" : 2, "primaryCharge" : 1.5, "altRange" : 20, "altCharge" : 2, "altChance" : 0.1, "permaChargePrimary" : 1},
+  
   "meritTokenValue" : 100,
 
   "animation" : "centens-wrathofrhadeis.animation",

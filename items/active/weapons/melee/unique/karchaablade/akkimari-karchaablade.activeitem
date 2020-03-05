@@ -15,6 +15,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-karchaablade" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5,"minRange" : 1,"maxYRange" : 4},
+  
   "meritTokenValue" : 100,
 
   "inventoryIcon" : "akkimari-karchaablade.png:front",

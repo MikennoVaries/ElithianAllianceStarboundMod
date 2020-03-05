@@ -14,6 +14,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-thorn" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 9,"minRange" : 5,"maxYRange" : 8,"altChance" : 0.2,"altRange" : 13, "altCharge" : 0.75},
 
   "inventoryIcon" : "akkimari-thornicon.png",
 

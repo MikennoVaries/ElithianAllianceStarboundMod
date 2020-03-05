@@ -16,6 +16,9 @@
   //CONFIGURATION FOR WEAPONS COLLECTION
   //"collectablesOnPickup" : { "thea_weapons" : "akkimari-kraavaarblade" },
   
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 6,"minRange" : 3,"maxYRange" : 6,"altChance" : 0.1,"altRange" : 15, "altCharge" : 1},
+  
   "meritTokenValue" : 100,
 
   "animation" : "akkimari-kraavaarblade.animation",

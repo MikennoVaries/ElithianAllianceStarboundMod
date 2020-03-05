@@ -17,7 +17,7 @@
   "collectablesOnPickup" : { "thea_weapons" : "akkimari-scrapyard" },
   
   //COMPATABILITY FOR WFSYSTEM NPCS
-  "wfNpcWeaponData" : {"primaryArcProjectile" : "akkimarishrapnel", "minRange" : 15, "maxRange" : 40, "forceMoveRange" : 45, "minAltRange" : 10, "altArcProjectile" : "akkimarispikebomb", "maxAltRange" : 60, "altChance" : 0.75},
+  "wfNpcWeaponData" : {"primaryArcProjectile" : "akkimarishrapnel2", "minRange" : 15, "maxRange" : 40, "forceMoveRange" : 45, "minAltRange" : 10, "altArcProjectile" : "akkimarispikebomb", "maxAltRange" : 60, "altChance" : 0.5},
   
   "meritTokenValue" : 100,
   

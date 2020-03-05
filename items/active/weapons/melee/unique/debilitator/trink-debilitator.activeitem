@@ -16,6 +16,9 @@
   
   //CONFIGURATION FOR WEAPONS COLLECTION
   "collectablesOnPickup" : { "thea_weapons" : "trink-debilitator" },
+  
+  //COMPATABILITY FOR WFSYSTEM NPCS
+  "wfNpcWeaponData" : {"maxRange" : 5, "maxYRange" : 6, "minRange" : 2, "primaryCharge" : 0.9, "altRange" : 5, "altCharge" : 1.25, "altChance" : 0.05, "permaChargePrimary" : 1},
 
   "animation" : "trink-debilitator.animation",
   "animationParts" : {

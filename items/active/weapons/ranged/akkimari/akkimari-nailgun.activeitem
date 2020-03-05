@@ -14,7 +14,7 @@
   "twoHanded" : false,
   
   //COMPATABILITY FOR WFSYSTEM NPCS
-  "wfNpcWeaponData" : {"minRange" : 15, "maxRange" : 40, "forceMoveRange" : 45, "primaryArcProjectile" : "akkimarinail"},
+  "wfNpcWeaponData" : {"minRange" : 20, "maxRange" : 40, "forceMoveRange" : 45, "primaryArcProjectile" : "akkimarinail"},
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
